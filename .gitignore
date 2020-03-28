@@ -1,0 +1,9 @@
+*.pyc
+inputs/
+outputs/
+.keras/
+.streamlit/
+.nv/
+.cache/
+/.bash_history
+/.DS_Store
