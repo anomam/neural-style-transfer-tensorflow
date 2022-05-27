@@ -1,4 +1,4 @@
-numpy==1.16.4
+numpy==1.21.0
 imageio
 tensorflow-gpu==2.7.2
 keras==2.2.5
