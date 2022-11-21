@@ -1,6 +1,6 @@
 numpy==1.21.0
 imageio
-tensorflow==2.7.2
+tensorflow==2.9.3
 keras==2.2.5
 h5py
 graphviz
