@@ -1,7 +1,7 @@
 numpy==1.22.0
 imageio
 tensorflow==2.11.1
-keras==3.13.2
+keras==3.15.0
 h5py
 graphviz
 pydot
